@@ -13,13 +13,13 @@ Hybrid Recommendations: The system combines content-based recommendations with w
 ## How to Use
 To use this Music Recommendation System, follow these steps:
 
-* Set Up Spotify Developer Account:
-  *Create a Spotify developer account and obtain client credentials (Client ID and Client Secret) to authenticate the application.
-  *Create a new app in the Spotify Developer Dashboard and obtain the credentials.
-*Install Dependencies
-*Run the code
-  *Update the CLIENT_ID and CLIENT_SECRET variables in the code with your obtained credentials.
-  *Run the Python script to collect music data from a specified Spotify playlist and generate recommendations.
-*Explore Recommendations
-  *Input a song name to get personalized recommendations based on its audio features and popularity.
+1. Set Up Spotify Developer Account:
+    * Create a Spotify developer account and obtain client credentials (Client ID and Client Secret) to authenticate the application.
+    * Create a new app in the Spotify Developer Dashboard and obtain the credentials.
+2. Install Dependencies
+3. Run the code
+    * Update the CLIENT_ID and CLIENT_SECRET variables in the code with your obtained credentials.
+    * Run the Python script to collect music data from a specified Spotify playlist and generate recommendations.
+4. Explore Recommendations
+    * Input a song name to get personalized recommendations based on its audio features and popularity.
 
