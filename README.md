@@ -13,7 +13,7 @@ Hybrid Recommendations: The system combines content-based recommendations with w
 ## How to Use
 To use this Music Recommendation System, follow these steps:
 
-*Set Up Spotify Developer Account:
+* Set Up Spotify Developer Account:
   *Create a Spotify developer account and obtain client credentials (Client ID and Client Secret) to authenticate the application.
   *Create a new app in the Spotify Developer Dashboard and obtain the credentials.
 *Install Dependencies
